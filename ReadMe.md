@@ -1,0 +1,1 @@
+Repozytorium stworzone na dysku lokalnym i przesłane na Github w ramach realizacji zadania z tablicy Trello. Zawiera plik ReadMe oraz .gitignore.
